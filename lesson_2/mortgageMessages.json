@@ -1,0 +1,34 @@
+{
+    "en": {
+      "welcome_message": "Loan Calculator has loaded <=\n\n",
+      "loan": "What is your loan amount?",
+      "interestRate": "What is the interest rate of this loan?",
+      "loanDuration": "What is your loan duration? You may enter your answer as a combination of years and months. Whole numbers only.",
+      "loanDurationMonths":"Months: ",
+      "loanDurationYears": "Years: ",
+      "invalid_loan": "Invalid amount. Please enter a number greater than 0",
+      "invalid_interestRate": "Invalid interest rate. Enter a positive number.",
+      "invalid_loanDuration":"Invalid loan duration. Please enter a number that greater than 0: ",
+      "invalid_loanDurationMonths":"Invalid duration. Please enter a positive whole number.",
+      "invalid_loanDurationYears":"Invalid duration. Please enter a positive whole number.",
+      "anotherCalc": "Would you like to calculate another loan? Enter 'y' or 'n'.",
+      "invalid_anotherCalc": "Please, enter 'y' to continue or 'n' to exit calculator.",
+      "exitMessage": "Thank you for using the Vyacheslav's Loan Calculator!"
+    },
+    "es": {
+      "welcome_message": "Calculadora de préstamos cargada <=\n\n",
+      "loan": "¿Cuál es el monto de su préstamo?",
+      "interestRate": "¿Cuál es la tasa de interés de este préstamo?",
+      "loanDuration": "¿Cuál es la duración de este préstamo?",
+      "loanDurationMonths":"Meses:",
+      "loanDurationYears": "Años:",
+      "invalid_loan": "Monto invalido. Ingrese un número mayor que 0.",
+      "invalid_interestRate": "Tasa de interés no válida Ingrese un número positivo.",
+      "invalid_loanDuration":"Duración del préstamo no válida Ingrese un número mayor que 0:",
+      "invalid_loanDurationMonths":"Duración inválida. Por favor ingrese un número entero positivo.",
+      "invalid_loanDurationYears":"Duración inválida. Por favor ingrese un número entero positivo.",
+      "anotherCalc": "¿Te gustaría calcular otro préstamo? Ingrese 'y' o 'n'.",
+      "invalid_anotherCalc": "Please, enter 'y' to continue or 'n' to exit calculator.",
+      "exitMessage": "¡Gracias por usar la calculadora de préstamos Vyacheslav!"
+    }
+  }

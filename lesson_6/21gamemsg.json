@@ -1,0 +1,25 @@
+  
+{
+    "welcomeMsg": "Welcome to Twenty-One!\n",
+    "playAgain": "\nDo you want to play again ('y'/'yes' or 'n'/'no')?",
+    "invalid_playAgain" : "Enter 'y'/'yes' for yes or 'n'/'no' for no",
+    "askToHitOrStay": "\nWould you like to 'hit' or 'stay' (enter 'h' or 's')",
+    "playerStayed" : "\nPlayer stays.",
+    "playerHit" : "Player hits.",
+    "dealerTurn" : "==> Dealers turn <==",
+    "dealerHits" : "Dealer hits",
+    "dealerStayed" : "Dealer stays",
+    "playerBusted" : "\n=> Player busted!\n\n** Dealer scores a point! **",
+    "dealerBusted" : "=> Dealer busted!\n\n** Player scores a point! **",
+    "playerWins" : "\n** Player scored a point! **",
+    "dealerWins" : "\n** Dealer scored a point! **",
+    "tie" : "\n** Tie! **",
+    "playerWonGame" : "\n==> Player has won the game! <==",
+    "dealerWonGame" : "\n==> Dealer has won the game! <==",
+    "gameTie" : "\n==> Game was a tie <==",
+    "exitMsg" : "Thank you for playing 21!",
+    "invalidAction" : "Enter 'h' to hit or 's' to stay.",
+    "divider" : "=======================",
+    "AskToContinue" : "Press [enter] to continue"
+  }
+  

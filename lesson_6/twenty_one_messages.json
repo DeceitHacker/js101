@@ -1,0 +1,14 @@
+{
+    "WELCOME": "Welcome to Twenty-One!",
+    "ASK_PLAY_AGAIN": "Do you want to play gain (y or n)?",
+    "HIT_OR_STAY": "Would you like to 'hit' or 'stay' - enter 'h' or 's':",
+    "INVALID_ANSWER": "Invalid option - please, enter 'h' or 's':",
+    "YOU_HIT": "You chose to hit!",
+    "DEALER_HITS": "Dealer chose to hit!",
+    "YOU_BUSTED": "Sorry, you Busted!",
+    "DEALER_BUSTED": "Dealer busted!",
+    "DEALER_TURN": "Dealer turn...",
+    "PRESS_ENTER": "Press key enter to continue.",
+    "DIVISOR": "================================",
+    "TIE": "It's a tie!"
+  }

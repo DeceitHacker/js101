@@ -1,0 +1,13 @@
+{
+    "welcomeMessage": "Welcome to the Mortgage Calculator!",
+    "loanAmountPrompt": "How much loan would you like to borrow? (>= £0) - input will be rounded down: ",
+    "loanAmountValidationMessage": "Sorry, the loan amount must be a non-negative number.",
+    "aprPrompt": "What is the Annual Percentage Rate? (>= 0%): ",
+    "aprValidationMessage": "Sorry, the Annual Percentage Rate must be 0% or more.",
+    "durationPrompt": "How long is the loan duration in years? ",
+    "durationValidationMessage": "Sorry, the loan duration must be atleast 1 month (0.0834 years).",
+    "monthlyPaymentsMessage" : "Your monthly payments are £",
+    "anotherCalculationPrompt": "Do you want do perform another calculation? (y/n) ",
+    "anotherCalculationValidationMessage": "Sorry, I didn't understand that. Please say '(y)es' or '(n)o'."
+  }
+  
