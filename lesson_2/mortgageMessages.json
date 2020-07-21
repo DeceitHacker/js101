@@ -13,7 +13,7 @@
       "invalid_loanDurationYears":"Invalid duration. Please enter a positive whole number.",
       "anotherCalc": "Would you like to calculate another loan? Enter 'y' or 'n'.",
       "invalid_anotherCalc": "Please, enter 'y' to continue or 'n' to exit calculator.",
-      "exitMessage": "Thank you for using the Vyacheslav's Loan Calculator!"
+      "exitMessage": "Thank you for using the Victor's Loan Calculator!"
     },
     "es": {
       "welcome_message": "Calculadora de préstamos cargada <=\n\n",
@@ -29,6 +29,6 @@
       "invalid_loanDurationYears":"Duración inválida. Por favor ingrese un número entero positivo.",
       "anotherCalc": "¿Te gustaría calcular otro préstamo? Ingrese 'y' o 'n'.",
       "invalid_anotherCalc": "Please, enter 'y' to continue or 'n' to exit calculator.",
-      "exitMessage": "¡Gracias por usar la calculadora de préstamos Vyacheslav!"
+      "exitMessage": "¡Gracias por usar la calculadora de préstamos Victor!"
     }
   }
